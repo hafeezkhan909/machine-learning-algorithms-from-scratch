@@ -1,4 +1,4 @@
-# mlalgorithms
+# machine learning algorithms from scratch
 
 This repository includes implementations of various machine learning algorithms from scratch using Python. The code is based on similar repositories by Patrick Loeber (https://github.com/python-engineer/MLfromscratch) and AssemblyAI (https://github.com/AssemblyAI-Examples/Machine-Learning-From-Scratch).
 
