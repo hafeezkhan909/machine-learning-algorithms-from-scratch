@@ -6,8 +6,8 @@ The purpose of this repository is to provide a clear understanding of how differ
 
 The implemented algorithms include:
 
-Linear Regression
-k-Nearest Neighbors (KNN)
+1. Linear Regression
+2. k-Nearest Neighbors (KNN)
 
 The code is written in Python and uses the numpy and pandas libraries for data manipulation and processing, as well as matplotlib for visualization. Each algorithm is implemented in a separate Python script, and a main script (beginning with the name 'training_') is provided for testing and comparing the performance of the algorithms on various datasets.
 
